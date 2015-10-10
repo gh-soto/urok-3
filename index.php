@@ -1,7 +1,7 @@
 <?php 
 
 
-//завдання 1
+//завдання 1 .
 function numbers_func ($a=0) {
 
 	 for ($i = 1; $i <= $a; $i++) {
